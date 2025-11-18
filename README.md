@@ -76,7 +76,7 @@ I enjoy designing systems that feel **smooth, predictable, and intentional**.
 <br/><br/>
 ## 📬 Reach Me
 
-[Portfolio](https://rico-portfolio.vercel.app)   &nbsp; &nbsp;    [Email](frankndagula12@gmail.com)      &nbsp;&nbsp;   [LinkedIn](https://linkedin.com/in/fndagula)  
+[Portfolio](https://rico-portfolio.vercel.app)   &nbsp; &nbsp;    [Email](frankndagula12@gmail.com)      &nbsp;&nbsp;   [LinkedIn](https://linkedin.com/in/frank-ndagula)  
 
 <br/><br/>
 <p align="center">
